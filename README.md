@@ -16,7 +16,7 @@ Files are available in a variety of formats importable by most CAD and CAM softw
 
 ## 👩‍💻 Contribution Guidelines
 
-We welcome contributions from the community! If you'd like to contribute a bolt on, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
