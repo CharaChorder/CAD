@@ -1,6 +1,6 @@
 # CharaChorder CAD File Repository
 
-Welcome to [CharaChorder's](https://www.charachorder.com/) official repository of CAD files. This repository is designed to provide our community with access to various 3D models and designs for personal, educational, or professional use. Whether you're an engineer, designer, or hobbyist, we hope these files help you bring your ideas to life for all things related to CharaChorder!
+Welcome to [CharaChorder's](https://www.charachorder.com/) official repository of CAD files. This repository is designed to provide our community with access to various 3D models. Whether you're an engineer, designer, or hobbyist, we hope these files help you bring your ideas to life for all things related to CharaChorder!
 
 ## 🎨 Available Files
 
@@ -29,4 +29,6 @@ If you encounter any issues or have questions, please join us in the [CharaChord
 
 # 🙏 Disclaimer
 
-Please note that all files provided here are for informational and educational purposes only. Use them at your own risk, and ensure that you comply with any relevant industry standards or safety regulations.  CharaChorder is not responsible for any damages that may result from your creation of a bolt on with the files provided.
+Use them at your own risk, and ensure that you comply with any relevant industry standards or safety regulations.  CharaChorder is not responsible for any damages that may result from your creation of a bolt on with the files provided.
+
+All CAD files are protected under CharaChorder BY-SA-CR license. While both personal & professional use is encouraged, you must obtain explicit written permission from CharaChorder before selling derivative works commercially. While we have no intention of revoking anyone's commercial usage rights, we have the right to do so at any time. License details: https://docs.google.com/document/d/1YAaItJu9e0Sxi1bb8VwvP-qqXbsXWlZP0_E7knAwng8/edit?usp=sharing
