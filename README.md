@@ -1,4 +1,4 @@
-# CharaChorder CAD File Repository
+# CharaChorder CAD Repository
 
 Welcome to [CharaChorder's](https://www.charachorder.com/) official repository of CAD files. This repository is designed to provide our community with access to various 3D models. Whether you're an engineer, designer, or hobbyist, we hope these files help you bring your ideas to life for all things related to CharaChorder!
 
