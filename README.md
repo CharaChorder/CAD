@@ -29,6 +29,6 @@ If you encounter any issues or have questions, please join us in the [CharaChord
 
 # 🙏 Disclaimer
 
-Use them at your own risk, and ensure that you comply with any relevant industry standards or safety regulations.  CharaChorder is not responsible for any damages that may result from your creation of a bolt on with the files provided.
+Use them at your own risk, and ensure that you comply with any relevant industry standards or safety regulations.  CharaChorder is not responsible for any damages resulting from use of files in this repository.
 
 Permission to use all CAD files is granted free of charge, to anyone under the terms of the CharaChorder BY-SA-CR license. While both personal & professional use is encouraged, attribution is required, and you must obtain explicit written permission from CharaChorder before selling derivative works commercially. License details: https://docs.google.com/document/d/1YAaItJu9e0Sxi1bb8VwvP-qqXbsXWlZP0_E7knAwng8/edit?usp=sharing
