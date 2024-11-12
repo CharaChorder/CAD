@@ -1,11 +1,10 @@
 # CharaChorder CAD Repository
 
-Welcome to [CharaChorder's](https://www.charachorder.com/) official repository of CAD files. This repository is designed to provide our community with access to various 3D models. Whether you're an engineer, designer, or hobbyist, we hope these files help you bring your ideas to life for all things related to CharaChorder!
+Welcome to [CharaChorder's](https://www.charachorder.com/) official CAD repository. This repository is designed to provide our community with access to various 3D models. Whether you're an engineer, designer, or hobbyist, we hope these files help you bring your ideas to life!
 
 ## 🎨 Available Files
 
-This repository contains files mostly centered around the Master Forge. The intent of providing these files is so that you can build custom bolt-ons for your device to truly make it A Keyboard Built For You™. These files are available in a variety of formats that most CAD software should accept:
-
+Files are available in a variety of formats importable by most CAD and CAM software:
 - `.STEP`
 - `.STL`
 
