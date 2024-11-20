@@ -14,6 +14,8 @@ Files are available in a variety of formats importable by most CAD and CAM softw
 2. **Open the files**: Use your preferred CAD software (e.g., Autodesk Inventor, SolidWorks, Fusion 360, OnShape) to open the models.
 3. **Modify or Assemble**: You can modify the models or use them as-is in your projects.
 
+Be sure to reference the README in each folder for more information about the files or their intended uses.
+
 ## 👩‍💻 Contribution Guidelines
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
