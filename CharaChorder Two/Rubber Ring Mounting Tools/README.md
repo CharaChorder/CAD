@@ -11,3 +11,10 @@ To install a rubber ring onto a switch, follow these steps:
 3. Place the rubber ring onto the smaller diameter end of the cone.
 4. Align the cone tip with the "fingers" of the plunger, ensuring that the tips of each plunger finger rest on the inner diameter of the X ring.
 5. Press down on the plunger evenly, applying consistent force. The X ring should move smoothly down the cone, evenly on all sides, until it reaches the edge and slides into place.
+
+## Rubber X-ring sourcing
+
+If you need to get some replacement rubber rings, or just want to know what sizes we use these are a good reference (CAD available on McMaster-Carr)
+- [No. 10 Xring used for primary and paddle caps](https://www.mcmaster.com/catalog/130/4009/90025K133)
+    - You could consider [No. 11](https://www.mcmaster.com/catalog/130/4009/90025K135) for the paddle caps, however they won't be as secure
+- [No. 9 XRing used for secondary caps](https://www.mcmaster.com/catalog/130/4009/90025K129)
