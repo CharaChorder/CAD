@@ -9,3 +9,5 @@ When removing caps, you might occasionally knock off the rubber X-ring installed
 ## Full CAD Reference
 
 This folder contains a complete CAD representation of the CharaChorder Two assembly. It includes all critical components you may need for measurements or as a reference. Keep in mind that these are design files, so actual dimensions may vary slightly. Be sure to make adjustments to your designs as needed.
+
+Note: the step assembly file includes "stretched x-rings" already into the model (although they are separate bodies that you can turn off).
