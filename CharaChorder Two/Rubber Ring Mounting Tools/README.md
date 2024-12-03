@@ -26,3 +26,6 @@ If you need to get some replacement rubber rings, or just want to know what size
 ![Picture of print orientation of cones and plungers](PrintOrientation.png?raw=true "Rubber Ring Mounting Tools Print Orientation")
 
 These were printed with the standard `0.08mm Extra Fine @BBL A1M` print profile for Basic PLA on the A1 Mini.
+
+Filament: 5g
+Time: 1.3h
