@@ -18,3 +18,8 @@ If you need to get some replacement rubber rings, or just want to know what size
 - [No. 10 Xring used for primary and paddle caps](https://www.mcmaster.com/catalog/130/4009/90025K133)
     - You could consider [No. 11](https://www.mcmaster.com/catalog/130/4009/90025K135) for the paddle caps, however they won't be as secure
 - [No. 9 XRing used for secondary caps](https://www.mcmaster.com/catalog/130/4009/90025K129)
+
+## Printing
+![Picture of prient orientation of cones and plungers](PrintOrientation.jpg?raw=true "Rubber Ring Mounting Tools Print Orientation")
+
+These were printed with the standard `0.08mm Extra Fine @BBL A1M` print profile for Basic PLA on the A1 Mini.
