@@ -1,5 +1,8 @@
 # Rubber Ring Mounting Tools
-![Picture of printed cones and plungers](Printed.jpg?raw=true "Rubber Ring Mounting Tools")
+<p align="center">
+    <img src="Printed.jpg" alt="Picture of printed cones and plungers" width="250"/>
+</p>
+
 ## Instructions
 
 For each switch size (primary, secondary, and paddle or pinky), two files are provided: a cone and a plunger. The plunger marked with `P` can be used with both the paddle `Pa` and primary `Pr` cones. The secondary plunger marked with `S` is used with the secondary cone. 
