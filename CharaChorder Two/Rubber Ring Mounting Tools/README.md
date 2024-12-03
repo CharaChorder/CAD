@@ -28,5 +28,5 @@ If you need to get some replacement rubber rings, or just want to know what size
 | Printer           | BambuLabs A1 Mini            |
 |-------------------|------------------------------|
 | Filament material | Black PLA Basic (5g)         |
-| Print profile     | `0.08mm Extra Fine @BBL A1M` |
+| Print profile     | 0.08mm Extra Fine @BBL A1M   |
 | Time              | 1.3h                         |
