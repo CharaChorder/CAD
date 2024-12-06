@@ -15,6 +15,11 @@ To install a rubber ring onto a switch, follow these steps:
 4. Align the cone tip with the "fingers" of the plunger, ensuring that the tips of each plunger finger rest on the inner diameter of the X ring.
 5. Press down on the plunger evenly, applying consistent force. The X ring should move smoothly down the cone, evenly on all sides, until it reaches the edge and slides into place.
 
+Steps 4 & 5
+<p align="center">
+    <img src="Usage.png" alt="Steps 4 & 5" />
+</p>
+
 ## Rubber X-ring sourcing
 
 If you need to get some replacement rubber rings, or just want to know what sizes we use these are a good reference (CAD available on McMaster-Carr)
