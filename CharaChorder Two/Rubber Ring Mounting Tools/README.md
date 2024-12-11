@@ -12,7 +12,7 @@ To install a rubber ring onto a switch, follow these steps:
 1. Remove the switch from the device and place it on a flat, stable surface.
 2. Select the appropriately sized cone for the switch. Position the cone so that the larger diameter face, with the slight boss, is inserted into the tip of the switch.
 3. Place the rubber ring onto the smaller diameter end of the cone.
-4. Align the cone tip with the "fingers" of the plunger, ensuring that the tips of each plunger finger rest on the inner diameter of the X ring.
+4. Align the cone tip with the "fingers" of the plunger, ensuring that the tips of each plunger finger rest on the inner diameter of the X ring. Note: placing a No. 10 rubber ring around the fingers of the plunger have shown to decrease the chance the fingers break.
 5. Press down on the plunger evenly, applying consistent force. The X ring should move smoothly down the cone, evenly on all sides, until it reaches the edge and slides into place.
 
 Steps 4 & 5
